@@ -1,0 +1,107 @@
+
+body{
+	background-color: black;
+
+}
+p{
+	color: white;
+	font: sans-serif bold;
+	
+
+
+}
+h1{
+	color:yellow;
+	
+
+
+}
+h3{
+	color:orange;
+	text-align: center;
+}
+h2{
+	color: #1908D7;
+}
+
+
+
+div .wrapper{
+
+	color: 
+
+}
+
+a {
+	color:red; 
+	
+}
+
+a:hover:link { text-decoration: none; }
+
+div .preamble{
+
+	
+	border: 5px solid;
+	display: inline-block;
+	float: top;
+	width: 80%;
+
+}
+div .explanation{
+	
+	border: 5px solid;
+	display: inline-block;
+	float: right;
+	width: 80%;
+}
+
+div .participation{
+	
+	border: 5px solid;
+	display: inline-block;
+	float: top;
+	width: 80%;
+}
+
+div .benefits{
+	
+	border: 5px solid;
+	display: inline-block;
+	float: right;
+	width: 80%;
+}
+
+div .requirements{
+	
+	border: 5px solid;
+	display: inline-block;
+	float: left;
+	width: 80%;
+}
+
+
+div .design-selection {
+	border: 1px solid #CCC;
+	display: inline-block;
+	float: right;
+	width: 30;
+
+}
+
+div .design-archives {
+	border: 1px solid #CCC;
+	display: inline-block;
+	float: right;
+	width: 30;
+	}
+
+div .zen-resources {
+	border: 1px solid #CCC;
+	display: inline-block;
+	float: right;
+	width: 30;
+	}
+
+
+
